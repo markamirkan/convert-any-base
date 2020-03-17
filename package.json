@@ -1,0 +1,28 @@
+{
+  "name": "convert-any-base",
+  "version": "1.0.0",
+  "description": "An easy-to-use base converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markamirkan/convert-any-base.git"
+  },
+  "keywords": [
+    "convert",
+    "base",
+    "custom",
+    "binary",
+    "octal",
+    "decimal",
+    "hex"
+  ],
+  "author": "Mark Amirkan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markamirkan/convert-any-base/issues"
+  },
+  "homepage": "https://github.com/markamirkan/convert-any-base#readme"
+}
