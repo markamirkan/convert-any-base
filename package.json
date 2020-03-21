@@ -19,7 +19,7 @@
     "decimal",
     "hex"
   ],
-  "author": "Mark Amirkan",
+  "author": "Mark Amirkan <markdamirkan@gmail.com> (https://markamirkan.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/markamirkan/convert-any-base/issues"
