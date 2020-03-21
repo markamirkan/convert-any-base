@@ -1,6 +1,6 @@
 {
   "name": "convert-any-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An easy-to-use base converter",
   "main": "index.js",
   "scripts": {
