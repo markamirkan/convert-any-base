@@ -4,7 +4,11 @@ An easy-to-use base converter
 
 ### Installation
 
-`npm install convert-any-base`  
+`npm install convert-any-base`
+- to just install the package
+
+`npm install convert-any-base --save`
+- to add the package directly to your package.jsom
 
 ### Examples
 
